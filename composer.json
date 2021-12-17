@@ -1,0 +1,22 @@
+{
+    "name": "notionhive/tensor",
+    "description": "Tensor functionalities handler plugin",
+    "type": "worpdress-plugin",
+    "license": "GPL v2",
+    "autoload": {
+        "psr-4": {
+            "Tensor\\": "classes/"
+        },
+        "files": [
+            
+        ]
+    },
+    "authors": [
+        {
+            "name": "Notiohive",
+            "email": "info@notionhive.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
