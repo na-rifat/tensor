@@ -7,7 +7,8 @@ defined( 'ABSPATH' ) or exit;
 class Assets {
     // This array will hold all js script dependencies
     public $script_deps = [
-        'widget' => ['jquery'],
+        'widget'   => ['jquery'],
+        'frontend' => ['jquery'],
     ];
 
     // This array will hold all css stylesheet dependencies
@@ -16,7 +17,7 @@ class Assets {
     ];
 
     function __construct() {
-        add_action('wp_enqueue_scripts', [$this, 'enqueue']);
+        add_action( 'wp_enqueue_scripts', [$this, 'enqueue'] );
     }
 
     /**

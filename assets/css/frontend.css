@@ -1,0 +1,7 @@
+/* Sticky header effect */
+.custom-tensor-header .tensor-sticky-effect .elementor-container {
+    transition: 0.3s all ease-out;
+}
+.custom-tensor-header.active-sticky .tensor-sticky-effect .elementor-container {
+    min-height: 80px !important;
+}

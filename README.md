@@ -13,3 +13,4 @@ This plugin was created to handle Tensor college website
 * Elementor integrations
 * Provide Elementor widgets
 * Pull theme parts into Elementor widgets
+* Sticky header with scroll effect
