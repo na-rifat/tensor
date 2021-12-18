@@ -9,7 +9,7 @@
  * Text domain: tensor
  * Requires at least: 5.8.2
  * Requires PHP: 7.0
- * License GPL V2 or later
+ * License: GPL V2 or later
  */
 
 namespace Tensor;
