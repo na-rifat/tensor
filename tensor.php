@@ -4,7 +4,7 @@
  * Plugin name: Tensor
  * Description: Tensor functionalities handler plugin
  * Version: 1.0.0
- * Plugin Author: Notionhive
+ * Author: Notionhive
  * Author URI: https://notionhive.com
  * Text domain: tensor
  * Requires at least: 5.8.2
