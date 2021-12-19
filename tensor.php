@@ -63,7 +63,7 @@ class Tensor {
     }
 
     /**
-     * Build the class and run the plugin
+     * Create self instance
      *
      * @return void
      */
